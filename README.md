@@ -2,7 +2,7 @@
 <h3 align="center">A high school student who</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanakornboonyasena&label=Profile%20views&color=0e75b6&style=flat" alt="thanakornboonyasena" /> </p>
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://i.gifer.com/3BBS.gif" width="40" height="40" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

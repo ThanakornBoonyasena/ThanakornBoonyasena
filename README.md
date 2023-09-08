@@ -1,9 +1,9 @@
 <h1 align="center">Ayo Bro, I'm Thanakorn Boonyasena.</h1>
 <h3 align="center">A high school student who</h3>
-![3rCC](https://github.com/ThanakornBoonyasena/ThanakornBoonyasena/assets/121655106/110baeac-57ca-4d70-b0fd-6d21f45c4d27)
+![color picker](https://bobbyhadz.com/images/blog/change-vscode-integrated-terminal-colors/hover-over-color.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thanakornboonyasena&label=Profile%20views&color=0e75b6&style=flat" alt="thanakornboonyasena" /> </p>
-<img src="" width="40" height="40" />
+![color picker](https://bobbyhadz.com/images/blog/change-vscode-integrated-terminal-colors/hover-over-color.gif)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
